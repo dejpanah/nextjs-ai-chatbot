@@ -79,7 +79,7 @@ function PureChatHeader({
           href="https://github.com/dejpanah/nextjs-ai-chatbot"
           target="_blank"
         >
-          Ardavan Dejpanah's Github Repos
+          Ardavan Dejpanah Github Repos
         </Link>
       </Button>
     </header>
